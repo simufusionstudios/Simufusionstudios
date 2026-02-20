@@ -1,5 +1,5 @@
 {
-  AdIds[{
+  "AdIds":[{
       "BundleId": "com.naqeeb.ur.rehman.urban.horizon.drive",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true, 
